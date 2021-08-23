@@ -1,0 +1,21 @@
+firt you create h login page 
+then create fb app using 
+                        https://developers.facebook.com
+                        click on (myapp)
+click on create app
+        then select (build connected experinces)
+                                and (countinous)
+write (app name)   
+       then click on (create)
+fill the cupature
+             filnally app has been create 
+after create the app you can add the login api 
+             facebook login 
+                          setup
+                               select(web)
+                                          then add the my website your (jis per page redirect krwna h)
+                                                                                                    save 
+                                                                                                        countinous
+then (next)
+        next
+           next
